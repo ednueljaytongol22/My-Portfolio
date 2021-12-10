@@ -1,2 +1,2 @@
-# My-Portfolio.github.io
+# My-Portfolio
 This is my simple programmer portfolio
